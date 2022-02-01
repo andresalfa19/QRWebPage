@@ -1,0 +1,38 @@
+body {
+  background-color: #CDDEFF;
+  text-align: center;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: #4E413B;
+}
+
+h1 {
+  width: 90%;
+  margin: 20px auto 0;
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+
+h2 {
+  width: 90%;
+  margin: 20px auto 0;
+  font-size: 1rem;
+  color: #9E9D89;
+}
+
+.box {
+  border-radius: 25px;
+  width: 350px;
+  height: 500px;
+  margin: 100px auto;
+  background-color: white;
+  position: relative;
+  padding: 20px;
+  box-shadow: 10px 10px 8px #888888;
+}
+
+.qr {
+  width: 350px;
+  height: 340px;
+  border-radius: 15px;
+}
